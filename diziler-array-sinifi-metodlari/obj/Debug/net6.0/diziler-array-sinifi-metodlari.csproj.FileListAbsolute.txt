@@ -1,0 +1,15 @@
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.exe
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.dll
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\ref\diziler-array-sinifi-metodlari.dll
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sinifi-metodlari.pdb
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.dll
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\ref\diziler-array-sinifi-metodlari.dll
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.pdb
+C:\Users\kadir\Desktop\patikaCsharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sinifi-metodlari.genruntimeconfig.cache
