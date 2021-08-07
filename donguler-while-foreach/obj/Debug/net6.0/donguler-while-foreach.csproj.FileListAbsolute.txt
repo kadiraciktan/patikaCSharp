@@ -1,0 +1,15 @@
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.exe
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.dll
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\bin\Debug\net6.0\ref\donguler-while-foreach.dll
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.pdb
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.dll
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\ref\donguler-while-foreach.dll
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.pdb
+C:\Users\kadir\Desktop\patikaCsharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.genruntimeconfig.cache
