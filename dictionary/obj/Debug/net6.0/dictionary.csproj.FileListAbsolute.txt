@@ -1,0 +1,15 @@
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\bin\Debug\net6.0\dictionary.exe
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\bin\Debug\net6.0\dictionary.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\bin\Debug\net6.0\dictionary.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\bin\Debug\net6.0\dictionary.dll
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\bin\Debug\net6.0\ref\dictionary.dll
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\bin\Debug\net6.0\dictionary.pdb
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\dictionary.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\dictionary.dll
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\ref\dictionary.dll
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\dictionary.pdb
+C:\Users\kadir\Desktop\patikaCsharp\dictionary\obj\Debug\net6.0\dictionary.genruntimeconfig.cache
