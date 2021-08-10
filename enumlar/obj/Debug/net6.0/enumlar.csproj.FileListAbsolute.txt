@@ -1,0 +1,15 @@
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\bin\Debug\net6.0\enumlar.exe
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\bin\Debug\net6.0\enumlar.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\bin\Debug\net6.0\enumlar.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\bin\Debug\net6.0\enumlar.dll
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\bin\Debug\net6.0\ref\enumlar.dll
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\bin\Debug\net6.0\enumlar.pdb
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\enumlar.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\enumlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\enumlar.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\enumlar.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\enumlar.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\enumlar.dll
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\ref\enumlar.dll
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\enumlar.pdb
+C:\Users\kadir\Desktop\patikaCsharp\enumlar\obj\Debug\net6.0\enumlar.genruntimeconfig.cache
