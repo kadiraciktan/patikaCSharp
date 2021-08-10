@@ -1,0 +1,15 @@
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\bin\Debug\net6.0\arayuzler.exe
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\bin\Debug\net6.0\arayuzler.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\bin\Debug\net6.0\arayuzler.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\bin\Debug\net6.0\arayuzler.dll
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\bin\Debug\net6.0\ref\arayuzler.dll
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\bin\Debug\net6.0\arayuzler.pdb
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\arayuzler.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\arayuzler.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\arayuzler.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\arayuzler.dll
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\ref\arayuzler.dll
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\arayuzler.pdb
+C:\Users\kadir\Desktop\patikaCsharp\arayuzler\obj\Debug\net6.0\arayuzler.genruntimeconfig.cache
