@@ -1,0 +1,15 @@
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\bin\Debug\net6.0\siniflar.exe
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\bin\Debug\net6.0\siniflar.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\bin\Debug\net6.0\siniflar.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\bin\Debug\net6.0\siniflar.dll
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\bin\Debug\net6.0\ref\siniflar.dll
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\bin\Debug\net6.0\siniflar.pdb
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\siniflar.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\siniflar.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\siniflar.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\siniflar.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\siniflar.dll
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\ref\siniflar.dll
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\siniflar.pdb
+C:\Users\kadir\Desktop\patikaCsharp\siniflar\obj\Debug\net6.0\siniflar.genruntimeconfig.cache
