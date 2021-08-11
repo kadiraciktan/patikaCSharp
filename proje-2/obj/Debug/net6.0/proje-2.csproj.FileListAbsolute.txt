@@ -1,0 +1,15 @@
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\bin\Debug\net6.0\proje-2.exe
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\bin\Debug\net6.0\proje-2.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\bin\Debug\net6.0\proje-2.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\bin\Debug\net6.0\proje-2.dll
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\bin\Debug\net6.0\ref\proje-2.dll
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\bin\Debug\net6.0\proje-2.pdb
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\proje-2.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\proje-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\proje-2.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\proje-2.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\proje-2.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\proje-2.dll
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\ref\proje-2.dll
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\proje-2.pdb
+C:\Users\kadir\Desktop\patikaCsharp\proje-2\obj\Debug\net6.0\proje-2.genruntimeconfig.cache
