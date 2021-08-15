@@ -1,0 +1,16 @@
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.exe
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\bin\Debug\net6.0\ref\KarakterDegistirme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\bin\Debug\net6.0\KarakterDegistirme.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.ImplicitNamespaceImports.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\ref\KarakterDegistirme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\KarakterDegistirme\obj\Debug\net6.0\KarakterDegistirme.genruntimeconfig.cache
