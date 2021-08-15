@@ -1,0 +1,16 @@
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.ImplicitNamespaceImports.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\bin\Debug\net6.0\ATMUygulamasi.exe
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\bin\Debug\net6.0\ATMUygulamasi.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\bin\Debug\net6.0\ATMUygulamasi.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\bin\Debug\net6.0\ATMUygulamasi.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\bin\Debug\net6.0\ref\ATMUygulamasi.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\bin\Debug\net6.0\ATMUygulamasi.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ref\ATMUygulamasi.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ATMUygulamasi\obj\Debug\net6.0\ATMUygulamasi.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+computer
+science
+portal.
+[Transaction] Osman Saygılı to Ahmet Torungil  - Amount : 10 /  TRANSFER BAŞARILI
+[Transaction] Osman Saygılı to Ahmet Torungil  - Amount : 100 /  TRANSFER BAŞARILI
+[Transaction] Osman Saygılı to Seda Tek  - Amount : 100 /  TRANSFER BAŞARILI
+[Transaction] [15.08.2021 - 19:26]  Osman Saygılı to Yeliz Doruk  - Amount : 100 /  TRANSFER BAŞARILI
+[Transaction] [15.08.2021 - 19:27]  Osman Saygılı to Yeliz Doruk  - Amount : 100 /  TRANSFER BAŞARILI
+[Transaction] [15.08.2021 - 19:27]  Osman Saygılı to Yeliz Doruk  - Amount : 44000 /  TRANSFER BAŞARILI
