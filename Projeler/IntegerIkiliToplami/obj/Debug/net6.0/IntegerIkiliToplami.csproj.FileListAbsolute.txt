@@ -1,0 +1,16 @@
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\bin\Debug\net6.0\IntegerIkiliToplami.exe
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\bin\Debug\net6.0\IntegerIkiliToplami.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\bin\Debug\net6.0\IntegerIkiliToplami.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\bin\Debug\net6.0\IntegerIkiliToplami.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\bin\Debug\net6.0\ref\IntegerIkiliToplami.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\bin\Debug\net6.0\IntegerIkiliToplami.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.ImplicitNamespaceImports.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\ref\IntegerIkiliToplami.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\IntegerIkiliToplami\obj\Debug\net6.0\IntegerIkiliToplami.genruntimeconfig.cache
