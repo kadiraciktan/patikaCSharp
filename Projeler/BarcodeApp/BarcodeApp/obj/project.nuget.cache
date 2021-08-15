@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qxj/KgY9TrfCVco7kWObKB8iYnNrHj6/iHJp3kQQKDZA2tXCIkr0ErP4CI0+CDveOnEgUOIFP9EzxCifPrWK/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kadir\\Desktop\\BarcodeApp\\BarcodeApp\\BarcodeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadir\\.nuget\\packages\\barcode\\2021.6.3\\barcode.2021.6.3.nupkg.sha512",
+    "C:\\Users\\kadir\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\kadir\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\kadir\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
