@@ -1,0 +1,16 @@
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\bin\Debug\net6.0\daireCizme.exe
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\bin\Debug\net6.0\daireCizme.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\bin\Debug\net6.0\daireCizme.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\bin\Debug\net6.0\daireCizme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\bin\Debug\net6.0\ref\daireCizme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\bin\Debug\net6.0\daireCizme.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.ImplicitNamespaceImports.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\ref\daireCizme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\daireCizme\obj\Debug\net6.0\daireCizme.genruntimeconfig.cache
