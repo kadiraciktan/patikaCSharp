@@ -1,0 +1,16 @@
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\bin\Debug\net6.0\TerstenYazdirma.exe
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\bin\Debug\net6.0\TerstenYazdirma.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\bin\Debug\net6.0\TerstenYazdirma.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\bin\Debug\net6.0\TerstenYazdirma.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\bin\Debug\net6.0\ref\TerstenYazdirma.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\bin\Debug\net6.0\TerstenYazdirma.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.ImplicitNamespaceImports.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\ref\TerstenYazdirma.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\TerstenYazdirma\obj\Debug\net6.0\TerstenYazdirma.genruntimeconfig.cache
