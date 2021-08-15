@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPg+40I78zsdObjoLZzONIfXkr9WauMaorS8YWk28MlPoochOm8xpZfV0zmDCZ74MO4YaOapLbabgmTzvj172Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kadir\\source\\repos\\VotingApp\\VotingApp\\VotingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadir\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.114.3\\stub.system.data.sqlite.core.netstandard.1.0.114.3.nupkg.sha512",
+    "C:\\Users\\kadir\\.nuget\\packages\\system.data.sqlite.core\\1.0.114.3\\system.data.sqlite.core.1.0.114.3.nupkg.sha512"
+  ],
+  "logs": []
+}
