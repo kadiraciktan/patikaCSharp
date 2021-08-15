@@ -1,0 +1,16 @@
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\bin\Debug\net6.0\MutlakKareAlma.exe
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\bin\Debug\net6.0\MutlakKareAlma.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\bin\Debug\net6.0\MutlakKareAlma.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\bin\Debug\net6.0\MutlakKareAlma.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\bin\Debug\net6.0\ref\MutlakKareAlma.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\bin\Debug\net6.0\MutlakKareAlma.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.ImplicitNamespaceImports.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\ref\MutlakKareAlma.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\MutlakKareAlma\obj\Debug\net6.0\MutlakKareAlma.genruntimeconfig.cache
