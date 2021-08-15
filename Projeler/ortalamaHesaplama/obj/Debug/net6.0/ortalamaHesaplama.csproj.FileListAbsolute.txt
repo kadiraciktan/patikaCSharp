@@ -1,0 +1,16 @@
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.exe
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\bin\Debug\net6.0\ref\ortalamaHesaplama.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.ImplicitNamespaceImports.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ref\ortalamaHesaplama.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.genruntimeconfig.cache
