@@ -1,0 +1,16 @@
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\bin\Debug\net6.0\UcgenCizme.exe
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\bin\Debug\net6.0\UcgenCizme.deps.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\bin\Debug\net6.0\UcgenCizme.runtimeconfig.json
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\bin\Debug\net6.0\UcgenCizme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\bin\Debug\net6.0\ref\UcgenCizme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\bin\Debug\net6.0\UcgenCizme.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.AssemblyInfo.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.ImplicitNamespaceImports.cs
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\ref\UcgenCizme.dll
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.pdb
+C:\Users\kadir\Desktop\patikaCsharp\Projeler\UcgenCizme\obj\Debug\net6.0\UcgenCizme.genruntimeconfig.cache
